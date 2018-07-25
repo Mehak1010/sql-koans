@@ -8,7 +8,7 @@ _____ 1
 select * from book
 
 -- Meditate on selecting one column (title) from a table
-select _____ from book
+select ____ from book
 
 -- Meditate on selecting some columns (title, available) from a table
 select _____, _____ from book
